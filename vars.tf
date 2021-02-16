@@ -24,7 +24,7 @@ variable "KEYNAME" {
   type = string
 }
 
-variable "USER_DATA" {
+variable "USERDATA" {
   description = "user data untuk install apps"
   type = string
 }
